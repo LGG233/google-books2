@@ -7,9 +7,8 @@ module.exports = {
             .get("https://www.googleapis.com/books/v1/volumes?q=jaws&key=" + APIKey, {
                 params
             })
-            .then(function (restuls) {
+            .then(function (results) {
                 res.json(results.data);
-
             });
     }
 }
