@@ -1,5 +1,6 @@
 .page-top {
     text-align: center;
-    background-color: blueviolet;
-    color: antiquewhite;
+    /* background-color: blueviolet; */
+    color: white;
+    background-image: url("./img/books.jpg")
 }

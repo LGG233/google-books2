@@ -1,0 +1,28 @@
+.book-input {
+    margin-left: 20px;
+}
+
+.input-label {
+    display: inline-block;
+    /* flex; */
+    /* flex-direction: row; */
+    /* justify-content: flex-end; */
+    text-align: left;
+    /* width: 400px; */
+    line-height: 26px;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    height: 20px;
+    /* flex: 0 0 200px; */
+    margin: 10px;
+  }
+
+  .book-body {
+      padding: 15px;
+  }
+
+  .error-statement {
+      margin-left: 20px;
+  }

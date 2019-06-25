@@ -10,7 +10,7 @@ function Book(props) {
             <button
                 onClick={() => props.onClick(props.id)}
             >
-                Save
+                Save Title
                         </button>
             <hr />
         </div>
